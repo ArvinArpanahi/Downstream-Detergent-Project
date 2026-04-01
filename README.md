@@ -69,25 +69,25 @@ The industrial facility includes:
 ## Visual Overview
 
 ### Facility Layout
-![Facility Layout](images/facility-layout.jpg)
+![Facility Layout](images/Facility-Layout.jpg)
 
 ### Production Site
-![Production Site](images/production-site.jpg)
+![Production Site](images/Production-Site.jpg)
 
 ### Pipeline & Infrastructure
-![Pipeline Infrastructure](images/pipeline-infrastructure.jpg)
+![Pipeline Infrastructure](images/Pipeline-Infrastructure.jpg)
 
 ### Mixing & Processing Unit
-![Mixing Unit](images/mixing-unit.jpg)
+![Mixing Unit](images/Mixing-Unit.jpg)
 
 ### Process Control System
-![Control System](images/control-system.jpg)
+![Control System](images/Control-System.jpg)
 
 ### Reaction & Processing Line
-![Reaction Line](images/reaction-line.jpg)
+![Reaction Line](images/Reaction-Line.jpg)
 
 ### Production Workflow
-![Production Workflow](images/production-workflow.jpg)
+![Production Workflow](images/Production-Workflow.jpg)
 
 ### Final Product Samples
 ![Product Sample](images/product-sample.jpg)
