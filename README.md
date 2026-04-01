@@ -118,3 +118,59 @@ The focus is on delivering practical, implementable, and scalable industrial sol
 ## Contact
 
 Open to collaboration with investors, industrial partners, and companies interested in developing real and scalable production projects.
+
+---
+
+## Project Scope
+
+This project focuses on developing a medium-to-large scale detergent production facility designed for regional export markets, with emphasis on cost optimization, scalability, and integration with existing industrial infrastructure.
+
+---
+
+## Location Strategy
+
+The project is best suited for regions with:
+
+- Proximity to petrochemical complexes or refineries  
+- Access to export routes (ports, land borders)  
+- Industrial infrastructure availability  
+
+Primary focus: Southern and Southwestern regions of Iran
+
+---
+
+## Target Markets
+
+- Persian Gulf countries  
+- Iraq  
+- Afghanistan  
+- Pakistan  
+
+These markets show strong demand for imported cleaning products due to limited local production capacity.
+
+---
+
+## Production Capacity (Conceptual)
+
+The facility can be scaled depending on investment level:
+
+- Small scale (local distribution)
+- Medium scale (regional export)
+- Large scale (industrial export hub)
+
+---
+
+## Operational Flow
+
+The system is designed for continuous industrial operation:
+
+Inbound materials → Processing → Mixing → Filling → Packaging → Storage → Distribution → Export
+
+---
+
+## Key Value Proposition
+
+- Low-cost production  
+- Export-driven revenue  
+- Integration with upstream petrochemical industry  
+- Scalable and modular expansion capability
